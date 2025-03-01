@@ -1,0 +1,14 @@
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\bin\Debug\net8.0\animalFactory.exe
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\bin\Debug\net8.0\animalFactory.deps.json
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\bin\Debug\net8.0\animalFactory.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\bin\Debug\net8.0\animalFactory.dll
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\bin\Debug\net8.0\animalFactory.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\obj\Debug\net8.0\animalFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\obj\Debug\net8.0\animalFactory.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\obj\Debug\net8.0\animalFactory.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\obj\Debug\net8.0\animalFactory.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\obj\Debug\net8.0\animalFactory.dll
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\obj\Debug\net8.0\refint\animalFactory.dll
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\obj\Debug\net8.0\animalFactory.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\obj\Debug\net8.0\animalFactory.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\animalFactory\animalFactory\obj\Debug\net8.0\ref\animalFactory.dll
